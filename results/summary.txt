@@ -1,0 +1,9 @@
+
+DQN Simulation Summary
+───────────────────────────────
+Total Episodes     : 300
+Average Reward     : 24.06
+Max Reward         : 56.97
+Min Reward         : -0.10
+Standard Deviation : 14.86
+───────────────────────────────
